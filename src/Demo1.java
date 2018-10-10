@@ -3,6 +3,7 @@ public class Demo1 {
     String a ="b";
     public void show(){
         System.out.println("hello gitHub again!");
+        System.out.println("hello gitHub again!");
     }
     
 }
